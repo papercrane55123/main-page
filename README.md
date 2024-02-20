@@ -1,5 +1,6 @@
 # main-page
 (추가 내용 있으면 자유롭게 입력해주세요)
+dockerize
 
 # 환경설정
 1. main-page 디렉토리 생성
